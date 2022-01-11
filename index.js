@@ -49,10 +49,7 @@ const emotes = [
     "https://static-cdn.jtvnw.net/emoticons/v2/300382817/default/dark/2.0",
     "https://static-cdn.jtvnw.net/emoticons/v2/300382763/default/dark/2.0",
     "https://static-cdn.jtvnw.net/emoticons/v2/300382785/default/dark/2.0",
-    "",
-    "",
-    "",
-    "",
+   
     
     
 ];
